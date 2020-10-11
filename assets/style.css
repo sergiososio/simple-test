@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400&display=swap");
+body,
+a {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  line-height: 1.65rem;
+  letter-spacing: 0.005rem;
+  color: #000;
+}
+a:hover,
+a:focus {
+  color: #000;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+}
